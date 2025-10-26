@@ -1,0 +1,5 @@
+{
+  "name": "Photo Hug",
+  "description": "An elegant web application that allows users to upload two photos and displays them side-by-side, creating a 'hugging' effect. It features a clean, responsive interface with interactive image uploaders and a beautiful preview.",
+  "requestFramePermissions": []
+}
